@@ -1,1 +1,1 @@
-SQL queries for analyzing procurement data, including vendor spending, savings, delivery performance, quality, and category-level insights.
+SQL queries for analyzing procurement spending, savings, vendor performance, delivery, quality, and category insights.
