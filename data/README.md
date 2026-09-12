@@ -1,1 +1,1 @@
-Dataset and processed data files for the procurement analytics project.
+Procurement dataset used for data cleaning, analysis, KPI calculation, and Power BI dashboard development.
